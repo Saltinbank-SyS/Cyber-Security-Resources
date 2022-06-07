@@ -2,6 +2,8 @@
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
+[Active Directory Pentesting with kali linux](https://lnkd.in/dYctaAwc)
+
 [TCMSecurity - Linux Privilege Escalation for Beginners](https://mega.nz/folder/viRBGIiR#B_UW6lMw2ODS5Obd1EOtBA)
 
 [TCMSecurity - External Pentest Playbook](https://mega.nz/folder/36JX3SwZ#EICCMbXsXnrxSqdHaNbYKA)
