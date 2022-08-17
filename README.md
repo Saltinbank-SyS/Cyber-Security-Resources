@@ -4,7 +4,7 @@
 
 [Android Pentesting Checklist](https://www.xmind.app/m/GkgaYH/#)
 
-[Thick client Pentesting checklist 1](https://lnkd.in/gRsU4t85)| 
+[Thick client Pentesting checklist 1](https://lnkd.in/gRsU4t85) | 
 [Thick client Pentesting checklist 2](https://github.com/Hari-prasaanth/Thick-Client-Pentest-Checklist)
 
 [Web Pentesting Checklist](https://lnkd.in/gHxTGcTd)
